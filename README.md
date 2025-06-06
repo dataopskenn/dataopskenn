@@ -8,7 +8,7 @@
 📊 I transform complex data into clear, actionable insights  
 🛠 Currently mastering how to build large **enterprise-grade data engineering systems** that scale easily  
 📦 Documenting beginner-friendly, production-level projects with full transparency  
-👶 Teaching like you’re 5. Building like you’re CTO.  
+👶 Teaching like you’re 5. Building like you’re the CTO.  
 🚀 Passionate about **Power BI**, **Python**, **SQL**, **Data Pipelines**, **ML**, and **Automation**
 
 ---
