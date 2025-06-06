@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Kenneth Dagogo
+# 👋 Hi, I'm Kenn
 
 **Data & Business Intelligence Professional | Power BI Expert | Data Engineering Enthusiast | Visual Thinker**
 
 ---
 
-🌍 Nigerian, based in the UK  
-📊 I transform complex data into clear, actionable insights  
-🛠 Currently mastering how to build large **enterprise-grade data engineering systems** that scale easily  
-📦 Documenting beginner-friendly, production-level projects with full transparency  
+🌍 Nigerian, based in the UK.  
+📊 I transform complex data into clear, actionable insights.  
+🛠 Currently mastering how to build large **enterprise-grade data engineering systems** that scale easily.  
+📦 Documenting beginner-friendly, production-level projects with full transparency.  
 👶 Teaching like you’re 5. Building like you’re the CTO.  
-🚀 Passionate about **Power BI**, **Python**, **SQL**, **Data Pipelines**, **ML**, and **Automation**
+🚀 Passionate about **Power BI**, **Python**, **SQL**, **Data Pipelines**, **ML**, and **Automation**.
 
 ---
 
@@ -68,8 +68,8 @@
 ## 🔍 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kenneth-dagogo/)  
-- 💬 DM me to collaborate on BI, ETL, or cleanly documented data projects  
-- 📚 I'm building in public — with a teacher's mindset and an engineer's rigor
+- 💬 DM me to collaborate on BI, ETL, or cleanly documented data projects.  
+- 📚 I'm learning and building in public — with a teacher's mindset and an engineer's rigor.
 
 ---
 
