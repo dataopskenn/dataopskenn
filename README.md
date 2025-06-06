@@ -51,7 +51,7 @@
 `Python` • `SQL (T-SQL & PostgreSQL)` • `DAX` • `Power Query M` • `Shell Scripting` • `Spark` • `FastAPI` 
 
 **BI & Visualization**  
-`Power BI` • `SVG`
+`Power BI` • `MS BI Stack` • `SVG`
 
 **Data Engineering & Ops**  
 `Apache Airflow` • `Kafka` • `Docker` • `DuckDB` • `TimescaleDB` • `Git` • `Postgres` • `MS BI Stack`
