@@ -16,10 +16,10 @@
 ## 🧠 What I Do
 
 ### ⚙️ **Business Intelligence & Analytics**
-- Lead Insights & Analytics for Havenhill Synergy Limited, Nigeria - Contract.
+- Lead **Insights & Analytics** for Havenhill Synergy Limited, Nigeria - Contract.
+- **Information Operations (Info-Ops)** at the Information Team at East Kent Hospitals University NHS Foundation Trust, England - Full Time.
 - Design executive-ready **Power BI dashboards** and **automated reporting systems**.
 - Deliver enterprise-wide training on **Power BI**, **DAX**, **T-SQL**, and **Power Query**.
-- Information Operations (Info-Ops) at the Information Team at East Kent Hospitals University NHS Foundation Trust, England - Full Time.
 
 
 ### 🔧 **Python Projects & Data Engineering**
