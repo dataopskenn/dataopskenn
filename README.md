@@ -67,7 +67,7 @@
 
 ## 🔍 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kenneth-dagogo/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kenn-dagogo/)  
 - 💬 DM me to collaborate on BI, ETL, or cleanly documented data projects.  
 - 📚 I'm learning and building in public — with a teacher's mindset and an engineer's rigor.
 
